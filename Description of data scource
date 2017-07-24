@@ -1,0 +1,3 @@
+This data scource is provided according to the NYCBS Data Policy. It is the Citi Bike Trip histroies for March 2017. 
+The data includes: trip duration, start time and data, stop time and data, start station name, end station name, station ID,
+bike ID, user type, gender and the year of birth.
